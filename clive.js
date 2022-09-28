@@ -1,0 +1,2 @@
+// strings
+const myVariable = 
